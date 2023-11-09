@@ -133,7 +133,7 @@ section .btntwo {
     content: "pc";
   }
   80% {
-    content: "mobile";
+    content: "and";
   }
   100% {
     content: "anydevice";
